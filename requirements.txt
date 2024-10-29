@@ -1,0 +1,6 @@
+tensorrt==10.5.0
+cuda-python==12.2.1
+onnxruntime==1.19.2
+pycuda==2024.1.2
+opencv-python
+numpy
