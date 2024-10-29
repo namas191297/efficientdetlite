@@ -43,8 +43,8 @@
 
 - [ONNX Runtime](https://github.com/microsoft/onnxruntime) (tested with version 1.19.2)
 - [TensorRT](https://developer.nvidia.com/tensorrt) (tested with version 10.5.0)
-- [PyCUDA] (https://pypi.org/project/pycuda/) (tested with version 2024.1.2)
-- [cuda-python] (https://pypi.org/project/cuda-python/) (tested with version 12.2.1 - should be the same as installed CUDA version)
+- [PyCUDA](https://pypi.org/project/pycuda/) (tested with version 2024.1.2)
+- [cuda-python](https://pypi.org/project/cuda-python/) (tested with version 12.2.1 - should be the same as installed CUDA version)
 
 ### Installation Steps
 
