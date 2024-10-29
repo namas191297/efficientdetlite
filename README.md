@@ -51,8 +51,8 @@
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/efficientdet-lite-onnx-tensorrt.git
-    cd efficientdet-lite-onnx-tensorrt
+    git clone https://github.com/namas191297/efficientdetlite.git
+    cd efficientdetlite
     ```
 
 2. **Set Up a Virtual Environment**
