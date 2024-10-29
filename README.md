@@ -3,7 +3,7 @@
 ![Object Detection GIF](efficientdetlite_demo.gif)
 
 ![License](https://creativecommons.org/licenses/by/3.0/deed.en)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/efficientdet-lite-onnx-tensorrt?style=social)
+![GitHub stars](https://img.shields.io/github/stars/namas191297/efficientdetlite.git?style=social)
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue)
 
 ## Table of Contents
