@@ -76,12 +76,6 @@
 
 ## 🚀 Usage
 
-### Running Inference with ONNX
-
-```bash
-python scripts/infer_onnx.py --model path/to/model.onnx --image path/to/image.jpg
-```
-
 ### Building TensorRT Engines
 
 - **FP32 Precision**
