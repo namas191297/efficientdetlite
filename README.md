@@ -175,8 +175,6 @@ The following table compares the latency (ms) of each EfficientDet Lite model ac
 | Lite3     |    78    |        54         |         33         |
 | Lite4     |   145    |        82         |         46         |
 
-*Note: Replace the above numbers with your actual benchmark results.*
-
 ### Hardware Specifications
 
 - **GPU**: NVIDIA RTX 3060
