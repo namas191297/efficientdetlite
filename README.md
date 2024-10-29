@@ -188,6 +188,7 @@ The following table compares the latency (ms) of each EfficientDet Lite model ac
 ### Detection Examples
 
 ![Detection Example](trt_output.jpg)
+
 *Inference using EfficientDetLite 4*
 
 ### Benchmark Results
